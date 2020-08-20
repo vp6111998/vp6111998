@@ -1,11 +1,4 @@
 ### Hi there, I'm [Vraj Patel!](https://vraj6198.github.io) 👋
-
-# My GitHub contributions as a Game of Life
-
-[![GitHub Game of Life](https://github4life.herokuapp.com/vraj6198.gif?z=6)](https://github4life.herokuapp.com/vraj6198)
-
-(Be sure to click on it for the infinite scrolling version.)
-
 <br />
 
 - 🔭 I’m currently working on IOS and Web Development.
